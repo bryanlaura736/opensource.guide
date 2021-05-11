@@ -31,7 +31,7 @@ Oprócz przekazywania swoich oczekiwań kodeks postępowania opisuje następują
 
 Gdziekolwiek możesz, skorzystaj ze stanu techniki. [Przymierze współautorów](https://contributor-covenant.org/) to rozwijany kodeks postępowania używany przez ponad 40 000 projektów open source, w tym Kubernetes, Rails i Swift.
 
-[Kodeks postępowania Django](https://www.djangoproject.com/conduct/) oraz [Kodeks postępowania obywatelskiego](http://citizencodeofconduct.org/) to także dwa przykłady dobrego kodeksu postępowania.
+[Kodeks postępowania Django](https://www.djangoproject.com/conduct/) oraz [Kodeks postępowania obywatelskiego](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) to także dwa przykłady dobrego kodeksu postępowania.
 
 Umieść plik CODE_OF_CONDUCT w katalogu głównym projektu i uczyń go widocznym dla społeczności, łącząc go z plikiem CONTRIBUTING  lub README.
 
@@ -54,7 +54,7 @@ Musisz wyjaśnić, w jaki sposób Twój kodeks postępowania będzie egzekwowany
 
 Powinieneś dać ludziom prywatny sposób (np. Adres e-mail), aby zgłosić naruszenie zasad postępowania i wyjaśnić, kto otrzyma to zgłoszenie. Może to być opiekun, grupa opiekunów lub grupa robocza ds. Kodeksu postępowania.
 
-Nie zapominaj, że ktoś może chcieć zgłosić naruszenie dotyczące osoby, która je otrzyma. W takim przypadku daj im możliwość zgłaszania naruszeń komuś innemu. Na przykład, @ctb oraz @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
+Nie zapominaj, że ktoś może chcieć zgłosić naruszenie dotyczące osoby, która je otrzyma. W takim przypadku daj im możliwość zgłaszania naruszeń komuś innemu. Na przykład, @ctb oraz @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
 > Przypadki obraźliwych, nękających lub w inny sposób niedopuszczalnych zachowań można zgłaszać, wysyłając wiadomość e-mail na adres **khmer-project@idyll.org**, który jest wysyłany tylko do C. Titusa Browna i Michaela R. Crusoe. Aby zgłosić problem dotyczący któregokolwiek z nich, wyślij wiadomość e-mail **dr Judi Brown Clarke** dyrektor ds. Różnorodności w Centrum Badań nad Ewolucją w Działaniu BEACON, Centrum Nauki i Technologii NSF.*
 

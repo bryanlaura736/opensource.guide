@@ -217,6 +217,8 @@ redirect_from: /zh-tw/how-to-contribute/
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](http://up-for-grabs.net/)
 * [貢獻忍者](https://contributor.ninja)
+* [最初的贡献](https://firstcontributions.github.io)
+* [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
 ### **提交貢獻前應做的檢查清單**
 

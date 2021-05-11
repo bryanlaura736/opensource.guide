@@ -31,7 +31,7 @@ Adem&aacute;s de comunicar tus expectativas, un c&oacute;digo de conducta descri
 
 Siempre que sea posible, haga uso del art. El [Contributor Covenant](https://www.contributor-covenant.org/) es un c&oacute;digo de conducta usado por m&aacute;s de 40,000 proyectos de software libre, incluyendo Kubernetes, Rails, and Swift.
 
-El [Django Code of Conduct](https://www.djangoproject.com/conduct/) y el [Citizen Code of Conduct](http://citizencodeofconduct.org/) son tambi&eacute;n dos ejemplos de buenos c&oacute;digos de conducta.
+El [Django Code of Conduct](https://www.djangoproject.com/conduct/) y el [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) son tambi&eacute;n dos ejemplos de buenos c&oacute;digos de conducta.
 
 Ubica un archivo CODIGO_DE_CONDUCTA en el directorio ra&iacute;z de tu proyecto, y enl&aacute;zalo desde tu LEEME, as&iacute; el mismo se encuentra visible a tu comunidad.
 
@@ -54,7 +54,7 @@ Deber&iacute;as explicar de qu&eacute; manera tu c&oacute;digo de conducta va a 
 
 Deber&iacute;as brindar a las personas, una manera privada (por ejemplo, mediante una direcci&oacute;n de email) de reportar una violaci&oacute;n al c&oacute;digo de conducta y explicar qui&eacute;n recibe dicho reporte. Puede ser un responsable de mantenimiento, un grupo de tales responsables, o un grupo de trabajo de c&oacute;digo de conducta.
 
-Recuerda que alguien puede que desee reportar una violaci&oacute;n acerca de la persona que recibe dichos reportes. En tal caso, br&iacute;ndales la posibilidad de que dichos reportes, sean revisados por alguien m&aacute;s. Por ejemplo, @ctb y @mr-c [explican en su proyecto](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
+Recuerda que alguien puede que desee reportar una violaci&oacute;n acerca de la persona que recibe dichos reportes. En tal caso, br&iacute;ndales la posibilidad de que dichos reportes, sean revisados por alguien m&aacute;s. Por ejemplo, @ctb y @mr-c [explican en su proyecto](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
 > Instancias de abuso, acoso o similares comportamientos inaceptables pueden ser reportados mandando un email a **khmer-project@idyll.org** el cual solamente se dirigir&aacute; a C. Titus Brown and Michael R. Crusoe. Para reportar una cuesti&oacute;n que involucra a ambos, por favor env&iacute;a un email a **Judi Brown Clarke, Ph.D.** el Director de Diversidad en el BEACON Center for the Study of Evolution in Action, un centro de la Fundaci&oacute;n de Ciencia Nacional para la Ciencia y Tecnologia.*
 

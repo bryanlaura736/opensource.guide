@@ -37,7 +37,7 @@ Beklentilerinizi iletmenin yanı sıra, bir davranış kural listesi aşağıdak
 
 Nerede olursanız olun, geçmiş tecrübelerden faydalanın. [Katkıda Bulunanlar Sözleşmesi (Contributor Covenant)](https://contributor-covenant.org/) Kubernet, Rails ve Swift dahil olmak üzere 40.000'den fazla açık kaynaklı proje tarafından kullanılan ortak bir davranış kural listesidir.
 
-[Django Davranış Kuralları](https://www.djangoproject.com/conduct/) ve [Vatandaş Davranış Kuralları](http://citizencodeofconduct.org/) da aynı zamanda iki iyi davranış kural listesi örneğidir.
+[Django Davranış Kuralları](https://www.djangoproject.com/conduct/) ve [Vatandaş Davranış Kuralları](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) da aynı zamanda iki iyi davranış kural listesi örneğidir.
 
 CODE_OF_CONDUCT dosyasını projenizin kök dizinine yerleştirin ve CONTRIBUTING veya README dosyanızdan bağlantılayarak topluluğunuz tarafından görülebilir hale getirin.
 
@@ -60,7 +60,7 @@ Bir ihlal meydana _gelmeden önce_ davranış kurallarınızın nasıl uygulanac
 
 İnsanlara davranış kuralları ihlalini bildirebilmeleri için özel bir yol (e-posta adresi gibi) vermelisiniz ve bu raporun kimlere ulaştığını açıklamalısınız. Bu bir kurucu, bir geliştirme grubu veya bir davranış kuralları çalışma grubu olabilir.
 
-Birisinin, bu raporları alan bir kişi hakkındaki ihlali bildirmek isteyebileceğini de unutmayın. Bu durumda, ihlalleri bir başkasına bildirme seçeneği de verin. Örneğin, @ctb ve @mr-c"nin [projeleri üzerinde açıkladıkları gibi](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst) , [khmer](https://github.com/dib-lab/khmer) :
+Birisinin, bu raporları alan bir kişi hakkındaki ihlali bildirmek isteyebileceğini de unutmayın. Bu durumda, ihlalleri bir başkasına bildirme seçeneği de verin. Örneğin, @ctb ve @mr-c"nin [projeleri üzerinde açıkladıkları gibi](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst) , [khmer](https://github.com/dib-lab/khmer) :
 
 > Kötü niyetli, taciz edici veya kabul edilemez davranışların **örnekleri** , yalnızca C. Titus Brown ve Michael R. Crusoe'ye gönderilen **khmer-project@idyll.org adresine** e-posta {strong2}gönderilerek{/strong2} bildirilebilir. İkisini de içeren bir sorunu bildirmek için lütfen {strong3}Judi Brown Clarke, Ph.D.{/strong3} NSAC Bilim ve Teknoloji Merkezi olan, Eylemdeki Evrim Çalışması Merkezi'ndeki BEACON Çeşitlilik Direktörü. *
 

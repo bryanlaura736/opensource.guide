@@ -101,12 +101,13 @@ related:
 
 あなた個人の状況によっては、あなた個人でオープンソース活動に資金を出してもらう試みをすることも可能です。例えば：
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon は [Patreon でのクラウドファンディング](https://redux.js.org/)を通じて、 [Redux](https://github.com/reactjs/redux) の活動の資金を得ています。
 * @andrewgodwin は [Kickstarter のキャンペーン](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)を通じて、 Django のスキーママイグレーションの活動の資金を得ています。
 
 最後に、オープンソースプロジェクトの中には問題解決を手伝ってもらうために報奨金を提示しているものもあります。
 
-* @ConnorChristie は [gitcoin の報奨金制度](https://gitcoin.co/)で @MARKETProtocol が javascript ライブラリの作業を[手伝う](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14)ことで金銭を得ました。
+* @ConnorChristie は [gitcoin の報奨金制度](https://gitcoin.co/)で @MARKETProtocol が JavaScript ライブラリの作業を[手伝う](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14)ことで金銭を得ました。
 * @mamiM は @MetaMask の日本語訳作業が [Bounties Network に資金提供された際に](https://beta.bounties.network/bounty/v1/134)、その作業を行いました。
 
 ## あなたのプロジェクトへの資金提供を探そう
@@ -133,7 +134,7 @@ related:
 * **[Travis CI](https://github.com/travis-ci)** は、製品の有償版を提供しています。
 * **[Ghost](https://github.com/TryGhost/Ghost)** は、有償のマネージドサービスを提供する非営利サービスです。
 
-[npm](https://github.com/npm/npm) や [Docker](https://github.com/docker/docker) のような有名なプロジェクトでは、ビジネスの成長を支えるためにベンチャーキャピタルから資金調達をしています。
+[npm](https://github.com/npm/cli) や [Docker](https://github.com/docker/docker) のような有名なプロジェクトでは、ビジネスの成長を支えるためにベンチャーキャピタルから資金調達をしています。
 
 ### 助成金に応募する
 
